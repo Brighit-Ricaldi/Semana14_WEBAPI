@@ -1,0 +1,6 @@
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.pdb
